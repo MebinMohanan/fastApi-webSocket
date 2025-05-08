@@ -193,6 +193,3 @@ function sendTypingNotification() {
 }
 ```
 
-## License
-
-MIT
