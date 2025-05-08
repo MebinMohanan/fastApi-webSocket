@@ -1,0 +1,4 @@
+env/
+app.db
+__pychache__/
+app/__pycache__/
